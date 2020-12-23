@@ -1,0 +1,22 @@
+Meeting John Leinenkugel
+========================
+
+\[caption id="attachment\_421" align="alignright" width="300" caption="John Leinenkugel at the release for 2009 Big Eddy"\]![John Leinenkugel](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/john_leine-300x225.jpg "john_leine")\[/caption\]
+
+I was bragging to my friend about living 2 minutes away from a [Binny's](http://www.binnys.com "Binny's Beverage Depot"). He asked me if it was some sort of party store. The only proper way to explain Binny's short of  a field trip is hopping on their website and seeing the breadth and depth of their selection. So I loaded up their website to copy a link and saw that John Leinenkugel (of [Leinenkugels](http://leinie.com/ "Jacob Leinenkugel Brewing Company"), natch) would be in their Lincoln Park store for a tasting and to talk.
+
+It was a very relaxed event given that the CEO of a large regional brewery was there. They had bottles of Leine Oktoberfest, Classic Amber and Honey Weisse. I had had each of them before, but they you got a free tasting glass with it (I have previously been using an old fashioned glass or a plastic coconut Malibu shot glass), so I figured I'd give it go and had a taste of the Honey Weisse.
+
+It was interesting talking to Mr. Leinenkugel about beer. His brewery has started putting out more extreme, one off beers under the Big Eddy name. The first was a big 10% double IPA. He said he had to scrape the hop taste of his tongue the next day. He prefers his beers to balanced between malt and hops, and claims that making hugely hopped beer, while expensive, isn't that hard\*. The hops cover a lot of mistakes, and there's not much of a balancing act.
+
+\[caption id="attachment\_423" align="alignleft" width="300" caption="Leinenkugel's Sunset Wheat"\][![Leinenkugels Sunset Wheat](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/Leinenkugels-Sunset-Wheat-300x207.jpg "Leinenkugels Sunset Wheat")](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/Leinenkugels-Sunset-Wheat.jpg)\[/caption\]
+
+We talked about Sunset Wheat. When I told him a lot of my friends who don't like beer like Sunset Wheat he asked me "and what do they say it tastes like?" I was a little nervous to say a beer his company makes tastes like Fruity Pebbles, but it... uh... does. He told me that is what 95% percent of people say it tastes like. This brought him to the topic of YLDACs (Young Legal Drinking Aged Consumers). 20 years ago, there was only yellow beer, limited wine and classic spirits. Now there are all sorts of flavored liquors, crazy wines from all over and a ton of competition in beer. Also, kids who are turning 21 and have been for the past five or so years (yours truly falls into this age group) have grown up drinking incredibly sweet sodas, sports drinks, energy drinks, etc., and have a very different palate than people 20 or 30 years older. This shift in demographic was one or the reason they developed their more "flavored" beers like Sunset Wheat, Summer Shandy and Berry Weisse.
+
+I also asked him how he thought Leinenkugel fits into the current beer landscape. It's available in the lower 48, been around for over 140 years and sells 12 packs for about $11, yet it certainly doesn't qualify as a macrobrewer. On the other hand, I don't really think it falls in with my conception of a "craft brewer" (which isn't a quality thing as much as not coming from the modern homebrewing movement). Mr. Leinenkugel says he considers his Leinenkugel's a regional brewery, especially since 85% of their business is done in the Big Ten footprint.
+
+Finally, he brought with him this year's Big Eddy which is an Imperial Stout that clocks in at 9.5% ABV and about 74IBU. Expect a review of that up here shortly! It will be available in the Great Lakes area around Halloween.
+
+Overall, it was really cool talking beer with someone who lives, breathes and drinks it everyday. He was really involved talking with people and had obvious pride in his beer (I think the Classic Amber was his favorite). He told me if I'm ever in Chippewa Falls, WI, I should ask for him at the bar. If he's there, he'll pour me a free pint.
+
+\* We've had our [issues](http://www.yeastboundanddown.com/2010/06/a-tale-of-two-ales/) making hoppy beers
