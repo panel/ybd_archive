@@ -33,6 +33,7 @@ rm('posts', e => {
     });
 
     REAMDE.close();
+    fs.copyFileSync('./README.md', './index.md');
 });
 const files = fs.readdirSync('posts');
 
