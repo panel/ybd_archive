@@ -1,7 +1,7 @@
 Beer Review: Red Hook Eisbock 28
 ================================
 
-\[caption id="attachment\_555" align="aligncenter" width="384" caption="Red Hook Eisbock - 11.2% ABV"\][![Red Hook Eisbock](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/IMG_20101026_1952591-e1288968286583-764x1024.jpg "RedHook Eisbock")](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/IMG_20101026_1952591.jpg)\[/caption\]
+![Red Hook Eisbock](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/IMG_20101026_1952591-e1288968286583-764x1024.jpg "RedHook Eisbock")
 
 I read about this in a [Binny's Beer Blog post](http://www.binnys.com/blogs/post.cfm/widmer-redhook-unveil-limited-release-beers). In the post I said I would probably get the Brrbon which is a bourbon barrel aged winter warmer, but standing there in the store with one bottle being $7.99 and the other $12.99, economy won out. The slick frosted black finish on the bottle certainly didn't hurt at all.
 

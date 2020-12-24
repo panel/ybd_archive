@@ -11,7 +11,7 @@ Anyway, on to the beer itself. Southern Tier describes the beer as:
 
 And with that moderately descriptive chicanery, on to my tasting notes.
 
-\[caption id="attachment\_843" align="alignright" width="300" caption="Southern Tier - Iniquity Black Ale - 9.0% ABV"\][![Southern Tier - Iniquity Black Ale - 9.0% ABV](http://www.yeastboundanddown.com/wp-content/uploads/2011/02/beer-300x223.png "Southern Tier - Iniquity Black Ale - 9.0% ABV")](http://www.yeastboundanddown.com/wp-content/uploads/2011/02/beer.png)\[/caption\]
+![Southern Tier - Iniquity Black Ale - 9.0% ABV](http://www.yeastboundanddown.com/wp-content/uploads/2011/02/beer-300x223.png "Southern Tier - Iniquity Black Ale - 9.0% ABV")
 
 **Appearance:** The beer pour a thick, dark, opaque black/brown. You get brief hits of copper when held up to the light. The big, fluffy, tan head faded away a medium pace, leaving a gentle lacing down the glass.
 

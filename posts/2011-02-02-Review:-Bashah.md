@@ -11,7 +11,7 @@ Bashah is classified (using the broad definition of classified) as THE Black Bel
 
 Yeah… maybe not so much of a description as recursive, rhetorical chicanery, but what more would you expect from these two companies getting together?
 
-\[caption id="attachment\_799" align="alignright" width="300" caption="Brew Dog/Stone Bashah - 8.6% ABV Black Belgian Style Double IPA"\][![Brew Dog/Stone Bashah](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/IMG_20110125_214551-e1296014976106-300x293.jpg "Brew Dog/Stone Bashah")](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/IMG_20110125_214551.jpg)\[/caption\]
+![Brew Dog/Stone Bashah](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/IMG_20110125_214551-e1296014976106-300x293.jpg "Brew Dog/Stone Bashah")
 
 Appearance: The beer is dark, almost black and completely opaque. You can see a bit of copper/ruby when you old it up to the light. It had a two finger thick, tan head that dropped down to about one finger with gentle lacing. That bit of foam ain't going anywhere.
 

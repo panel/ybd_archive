@@ -5,7 +5,7 @@ I visited Paul in Chicago for my last free weekend in the Midwest. With me on my
 
 These beers came in standard 6-pack plastic duck traps. I liked the design of the cans, which, when giving up the aesthetics of a bottle, is at least something to consider. The two we had were the Widow Maker Black Ale, and the Lift Bridge Brown Ale.
 
-\[caption id="attachment\_501" align="alignright" width="300" caption="Canned Black and Brown ales"\][![Kewanaw Brewing](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/IMG_20101022_230520-300x224.jpg "Cans")](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/IMG_20101022_230520.jpg)\[/caption\]
+![Kewanaw Brewing](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/IMG_20101022_230520-300x224.jpg "Cans")
 
 We'll start with the black ale. Let me first say this: Ow. I felt like I was drinking tinfoil. 100% of the aroma was metal. No hops, no malt, just metal. It gave me a pain at the base of my skull just sniffing it. The flavor was little better. Metal again was the dominant force in the mouth, with a few nutty malt notes, but little else. It was over-carbonated, and had the texture of Sprite. Paul and I fought over who had to finish it.
 

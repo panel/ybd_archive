@@ -1,7 +1,7 @@
 Beer Review: Avery The Kaiser
 =============================
 
-\[caption id="attachment\_492" align="aligncenter" width="300" caption="Avery The Kaiser Imperial Oktoberfest - 9.73% ABV"\][![Avery The Kaiser Imperial Oktoberfest](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/avery.png "avery")](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/avery.png)\[/caption\]
+![Avery The Kaiser Imperial Oktoberfest](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/avery.png "avery")
 
 I had just gotten my first graduate school exam back, and I got a pretty good grade. I decided this was a moment to celebrate, so I stopped at [Binny's](http://binnys.com "Binny's Beverage Depot") to pick up celebration supplies. As I was perusing the aisles, The Kaiser caught my eye (largely because it was on sale for $5.99!). I, for some reason, tend to skip over Avery beers while buying bottles. I think it's mainly because of the label art, which may be one of the stupidest possible reasons, but there it is.
 

@@ -13,7 +13,7 @@ http://www.youtube.com/watch?v=3ObxHoa7DRM
 
 The proceeds of this beer go to a worthy cause; now I just hope the beer is worthy!
 
-\[caption id="" align="aligncenter" width="500"\][![Stone More Brown than Black IPA](http://25.media.tumblr.com/tumblr_m7qvvaqYqT1rzr3i9o1_500.jpg "Stone More Brown than Black IPA")](http://25.media.tumblr.com/tumblr_m7qvvaqYqT1rzr3i9o1_500.jpg) Stone More Brown than Black IPA with The Alchemist and Ninkasi\[/caption\]
+![Stone More Brown than Black IPA](http://25.media.tumblr.com/tumblr_m7qvvaqYqT1rzr3i9o1_500.jpg "Stone More Brown than Black IPA")
 
 ### Tasting Notes
 

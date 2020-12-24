@@ -25,7 +25,7 @@ rm('posts', e => {
     REAMDE.write(`# Yeastbound and Down Archives\n\n`);
     posts.filter(p => p.post_type === 'post' && p.post_status === 'publish').forEach(post => {
         const date = formatDate(post.post_date);
-        const cleanedUp = post.post_content.replace(/\r\n/g, '\n').replace(/\n\n/g, '</p><p>').replace(/\n/g, '<p>');
+        const cleanedUp = post.post_content.replace(/\r\n/g, '\n').replace(/\n\n/g, '</p><p>').replace(/\n/g, '<p>').replace(/\[caption .*(<.*\/>).*caption\]/g, '$1');
         const content = turndownService.turndown(`<h1>${post.post_title}</h1>\n${cleanedUp}`);
         const filePath = `./posts/${slugify([date, post.post_title].join(' '))}.md`;
         fs.writeFileSync(filePath, content);
@@ -36,10 +36,5 @@ rm('posts', e => {
     fs.copyFileSync('./README.md', './index.md');
 });
 const files = fs.readdirSync('posts');
-
-
-files.reduce((str, file) => str += `* []()`)
-
-
 
 

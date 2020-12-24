@@ -11,7 +11,7 @@ For my second go-round, I decided to go bigger. Between having a bit more of a b
 
 I mentioned [HomeBrewTalk.com](http://www.HomeBrewTalk.com ) in my post about [beer tools on the Web](http://www.yeastboundanddown.com/2010/11/beer-tools-on-the-web/), and beyond their forums (which are excellent) they maintain the [Home Brewing Wiki](http://www.homebrewtalk.com/wiki/index.php/Main_Page) which has a ton of great information on different ingredients, methods AND step by step instructions on [converting a cooler to a mash-tun](http://www.homebrewtalk.com/wiki/index.php/Converting_a_cooler_to_a_mash_tun#How_to_make_a_cheap_10_or_5_gallon_MLT_with_a_Rubbermaid_Cooler.)!
 
-\[caption id="" align="alignright" width="180" caption="Mash Tun Parts"\][![Mash Tun Parts](http://www.homebrewtalk.com/wiki/images/thumb/5/53/1_All_Parts_r-1-.jpg/180px-1_All_Parts_r-1-.jpg "Mash Tun Parts")](http://www.homebrewtalk.com/wiki/index.php/Converting_a_cooler_to_a_mash_tun#How_to_make_a_cheap_10_or_5_gallon_MLT_with_a_Rubbermaid_Cooler.)\[/caption\]
+![Mash Tun Parts](http://www.homebrewtalk.com/wiki/images/thumb/5/53/1_All_Parts_r-1-.jpg/180px-1_All_Parts_r-1-.jpg "Mash Tun Parts")
 
 This awesome guide has pictures, part numbers and pretty much every question you might have. Armed with this info, I went to the hardware store and bought everything I needed. All told, it was right around $65. Yeah. $40 for the cooler and $25 for everything else to turn it into an awesome piece of homebrewing equipment.
 

@@ -7,7 +7,7 @@ I can see them not necessarily being for everyone. They could trend too far from
 
 ### Tasting Notes
 
-\[caption id="attachment\_946" align="alignright" width="300" caption="O'Fallons Smoked Porter"\][![O'Fallons Smoked Porter](http://www.yeastboundanddown.com/wp-content/uploads/2011/03/IMG_20110110_220656-300x224.jpg "O'Fallons Smoked Porter")](http://www.yeastboundanddown.com/wp-content/uploads/2011/03/IMG_20110110_220656.jpg)\[/caption\]
+![O'Fallons Smoked Porter](http://www.yeastboundanddown.com/wp-content/uploads/2011/03/IMG_20110110_220656-300x224.jpg "O'Fallons Smoked Porter")
 
 Appearance: Dark brown with hints of copper shining through when held up to the light. It poured with a creamy, 2 finger thick tan head that dissipated somewhat quickly and without much lacing.
 

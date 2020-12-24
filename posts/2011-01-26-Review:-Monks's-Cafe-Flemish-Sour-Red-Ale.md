@@ -7,7 +7,7 @@ Sour ales seem to be one of the final bridges craft beer folk cross. There's som
 
 This particular beer is brewed in Belgium for Monk's Cafe in Philadelphia, PA. It is a mix of old, aged beer and young. My tasting notes are below the picture.
 
-\[caption id="attachment\_775" align="aligncenter" width="300" caption="Monk's Cafe Flemish Sour Ale - 5.5% ABV"\][![Monk's Cafe Flemish Sour Ale](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/IMG_20110121_205512-300x224.jpg "Monk's Cafe Flemish Sour Ale")](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/IMG_20110121_205512.jpg)\[/caption\]
+![Monk's Cafe Flemish Sour Ale](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/IMG_20110121_205512-300x224.jpg "Monk's Cafe Flemish Sour Ale")
 
 Appearance: It pours a cloudy, brownish red with a thick, tan head that receded quickly with a bit of lacing. The last half inch of the head is holding strong. I can see the CO2 bubbling up from the bottom.
 

@@ -7,7 +7,7 @@ There was an afternoon session and an evening session available (each 2.5 hours 
 
 ### What they did right
 
-\[caption id="attachment\_1164" align="aligncenter" width="584"\][![View from the festival](http://www.yeastboundanddown.com/wp-content/uploads/2012/06/IMG_0334-1024x768.jpg "IMG_0334")](http://www.yeastboundanddown.com/wp-content/uploads/2012/06/IMG_0334.jpg) Looking out onto Manhattan\[/caption\]
+![View from the festival](http://www.yeastboundanddown.com/wp-content/uploads/2012/06/IMG_0334-1024x768.jpg "IMG_0334")
 
 The location of the festival was amazing. It was where 11th Ave ended into the river in Brooklyn and it featured some great views of the sun setting behind Manhattan. Also, the neighborhood around the festival had tons of cool bars. Most notably, Brooklyn Brewery was about 2 blocks away. We didn't make it there, but it looked like plenty of people decided to stop by.
 

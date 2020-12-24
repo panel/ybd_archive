@@ -9,25 +9,7 @@ The only advantage of living here (Vail Valley specifically), in terms of beer t
 
 Today, I gathered a collection of three Belgian-style ales from CO, mostly because it's not a style (or group of styles) that I generally drink, nor is it one of my favorite groups of styles, and getting yourself into a habit of only drinking a couple types of beers is going to diminish your palette, and we can't have that, can we?
 
-\[caption id="attachment\_927" align="alignright" width="150" caption="New Belgium's Trippel - 7.8% ABV"\][![7.8% ABV](http://www.yeastboundanddown.com/wp-content/uploads/2011/02/P2230734-150x150.jpg "New Belgium's Trippel")](http://www.yeastboundanddown.com/wp-content/uploads/2011/02/P2230734.jpg)\[/caption\]
-
-The first beer on the list was the New Belgium Trippel. This poured well, for a trip, a lingering sudsy head typical of the style that helped release the aroma of the beer. This picture makes it appear much darker than it actually is, which is a nice golden yellow. The aroma is dominated by the banana esters and maybe a hint of strawberry. Hop tones are light as is the coriander. I'd go so far as to say I had to strain hard to pick up on it.
-
-The flavor also strongly featured the bananas with what I thought was a surprising amount of malt flavor. Sweet, but not so much as to prevent you (read: me) from rapidly consuming it. It did, however do a fantastic job of covering the flooring 7.8% ABV. I had one of these, and was definitely aware I was drinking a beer. The finish lingered enough to leave my mouth wanting another swig.
-
-This is truly a great brew. I don't really go out of my way to drink tripels, but I can see myself (frequently) getting a six pack of this again and enjoying a couple on the mountain for a mid-day picnic once the we start getting a little warmer around here.
-
-Next on the list was New Belgium's Abbey ale. This is a dubbel ale with a bit more color to it. On my first attempt at a pour, epic fail ensued, resulting in a five finger head out of my mug, with maybe half that height in beer. It faded enough to try again in about two minutes, this time with much more success.
-
-\[caption id="attachment\_929" align="alignright" width="150" caption="New Belgium's Abbey - 7% ABV"\][![7% ABV](http://www.yeastboundanddown.com/wp-content/uploads/2011/02/P2230737-150x150.jpg "New Belgium's Abbey")](http://www.yeastboundanddown.com/wp-content/uploads/2011/02/P2230737.jpg)\[/caption\]
-
-Significantly darker than the trip (as one would expect), the Abbey's head laces much more, and the head settles to a thin creamy cap on a deep amber transparent base. Fewer esters in the nose here, along with a bit more malt aroma. I also picked up a significant amount of tannins in the nose. I felt like I was about to drink some bizarre cab sav.
-
-And on to the tasting: Boy, oh boy, getting suck in a style(or, more accurately, chronically avoiding a style) leads to some forgetfulness. My tongue doesn't remember anything but a banana smoothie that has that much banana in it. The fruitiness of the malt hides some of the more basic sugar flavors you'd expect from something this dark. Normal for the style, not so normal for me.
-
-Just as a side note, I'd like to voice my appreciation for these two NB bottles. It seems breweries are going to busier and busier labels. These are simple two tone bottles, with the name and style and a small, simple graphic. Beer doesn't need to be show-y. It's beer, you drink it. Hilariously, after buying both of these, I told Paul he'd like the design of the bottles. Paul mentioned he also had bought sixers of each, with a significant factor in his decision being the label design.
-
-\[caption id="attachment\_930" align="alignright" width="150" caption="Avery's Salvation - 9% ABV"\][![9% ABV](http://www.yeastboundanddown.com/wp-content/uploads/2011/02/P2270739-150x150.jpg "Avery's Salvation")](http://www.yeastboundanddown.com/wp-content/uploads/2011/02/P2270739.jpg)\[/caption\]
+![9% ABV](http://www.yeastboundanddown.com/wp-content/uploads/2011/02/P2270739-150x150.jpg "Avery's Salvation")
 
 And finally, the bomber of Avery's Salvation Belgian golden pale ale: The pour was excellent, with a soft one and a half finger head that subsided to a light dusting of eggshell white foam. Not the retention I was expecting, but the texture was decent, for a non-Belgian-aficionado like myself. The aroma had a sickly sweet fruit aroma, with a small mix of earthy and floral hop notes. It reminded me of our [Lawnmower beers](http://www.yeastboundanddown.com/2010/06/a-tale-of-two-ales/): a lot going on, but nothing really coherant. I know I'm not well versed in this style, but I don't remember any Belgian anything smell like this. It's hard to get past, maybe because of my bad memories of trying to choke down the Lawnmowers so we could put something else in our kegs...
 

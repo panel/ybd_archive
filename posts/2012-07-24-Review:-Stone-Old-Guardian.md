@@ -9,7 +9,7 @@ A lot of times, I overlook beers because I see them all over. Sometimes it's wor
 
 ### Tasting Notes
 
-\[caption id="" align="aligncenter" width="500"\][![Stone Old Guardian 2012](http://25.media.tumblr.com/tumblr_m7flddwNrS1rzr3i9o1_500.jpg "Stone Old Guardian 2012")](http://25.media.tumblr.com/tumblr_m7flddwNrS1rzr3i9o1_500.jpg) Stone Old Guardian 2012 (11%)\[/caption\]
+![Stone Old Guardian 2012](http://25.media.tumblr.com/tumblr_m7flddwNrS1rzr3i9o1_500.jpg "Stone Old Guardian 2012")
 
 **Appearance**: This beer was not as dark as I expected. The beer is a coppery, tan, with ruby tinges when you hold it up to the light. There was a fluffy, off-white head that faded quickly to a thin film.
 

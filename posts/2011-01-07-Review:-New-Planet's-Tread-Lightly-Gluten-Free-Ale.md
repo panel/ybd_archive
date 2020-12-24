@@ -1,7 +1,7 @@
 Review: New Planet's Tread Lightly Gluten-Free Ale
 ==================================================
 
-\[caption id="" align="alignright" width="288" caption="Gluten free and everything"\]![New Planet Tread Lightly Ale](http://sphotos.ak.fbcdn.net/hphotos-ak-snc4/hs1360.snc4/163287_489068943336_542848336_5774017_8281206_n.jpg "New Planet Tread Lightly Ale")\[/caption\]
+![New Planet Tread Lightly Ale](http://sphotos.ak.fbcdn.net/hphotos-ak-snc4/hs1360.snc4/163287_489068943336_542848336_5774017_8281206_n.jpg "New Planet Tread Lightly Ale")
 
 While craft beer can be enjoyed by anyone, demographically, it's generally puchased by the middle to upper class. Breweries are a business, and the guys (or gals) running them do market research. A not-insignificant chunk of these people (particularly those of the 12-Tribes-of-Israel persuasion) suffer from Celiac's Disease, preventing them from being able to eat (or, more impotantly, drink) glutens.
 

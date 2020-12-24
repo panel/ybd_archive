@@ -3,7 +3,7 @@ Bell's Hopslam Release
 
 When Ashey's Ann Arbor tweeted (@[a2ashleys](http://twitter.com/a2ashleys)) Monday afternoon that they'd be releasing Bell's Hopslam Double IPA at 4pm, I had no choice but to venture over there for a taste, right?
 
-\[caption id="attachment\_721" align="alignright" width="300" caption="Bell's Hopslam"\][![Bell's Hopslam](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/IMG_2171-300x200.jpg "Bell's Hopslam")](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/IMG_2171.jpg)\[/caption\]
+![Bell's Hopslam](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/IMG_2171-300x200.jpg "Bell's Hopslam")
 
 The description included with the pint (pictured) stated that the hops were chosen on the basis of being very aromatic, though I didn't think there was a very strong hop aroma. The taste, on the other hand, was out of control. Tons of grapefruit and other citrus flavors from the hops, along with a decent taste of honey, with just enough malt to balance it all out. There wasn't a strong bitterness either, this was a beer that is primarily hopped for flavor and little else.
 

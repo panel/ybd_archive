@@ -1,7 +1,7 @@
 Beer Review: Short's Bloody Beer
 ================================
 
-\[caption id="attachment\_566" align="alignright" width="300" caption="Short's Brew Bloody Beer"\][![Short's Brew Bloody Beer](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/IMG_1372-300x200.jpg "Short's Brew Bloody Beer")](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/IMG_1372.jpg)\[/caption\]
+![Short's Brew Bloody Beer](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/IMG_1372-300x200.jpg "Short's Brew Bloody Beer")
 
 Without paying too much attention to the label, I poured Bloody Beer into my glass. "Shouldn't it be red?" was my first thought. I knew it had tomato flavors, but that was the extent of my knowledge.
 

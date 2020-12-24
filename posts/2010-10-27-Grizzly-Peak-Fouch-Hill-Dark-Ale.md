@@ -1,7 +1,7 @@
 Grizzly Peak Fouch Hill Dark Ale
 ================================
 
-\[caption id="" align="alignright" width="299" caption="Grizzly Peak's Fouch Hill Dark Ale"\]![image](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/wpid-IMG_20101021_141330.jpg)\[/caption\]
+![image](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/wpid-IMG_20101021_141330.jpg)
 
 Listed as a "session mild ale," one of Grizzly Peak's Autumn offerings for 2010 is the Fouch Hill Dark Ale. An ale with a Scottish flavor, the name seems to foreshadow that, though Fouch Hill is actually located in Northern Michigan, on the Leelenau Peninsula near Traverse City.
 

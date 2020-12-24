@@ -1,7 +1,7 @@
 Beer Review: Two Brothers Cane & Ebel
 =====================================
 
-\[caption id="" align="aligncenter" width="499" caption="Cane and Ebel by Two Brother's"\]![Two Brother's Cane and Ebel](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/wpid-IMG_20101002_122601.jpg "Cane and Ebel")\[/caption\]
+![Two Brother's Cane and Ebel](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/wpid-IMG_20101002_122601.jpg "Cane and Ebel")
 
 I was at Binny's looking for a nice 6-pack to go along with the 12 pack of PBR I was bringing over to my friend's house for a football game.  I still feel out of place looking through craft brews in Chicago. There are a lot more and very few of my standard Michigan beers. This is, overall, a good thing, but when I was just dropping in to make a quick purchase en route, I kind of wanted to go with something dependable.
 

@@ -1,7 +1,7 @@
 Beer Review: Rogue OREgasmic Ale
 ================================
 
-\[caption id="attachment\_434" align="aligncenter" width="400" caption="Chatoe Rogue OREgasmic Ale"\][![Chatoe Rogue OREgasmic Ale](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/rogue.png "rogue")](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/rogue.png)\[/caption\]
+![Chatoe Rogue OREgasmic Ale](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/rogue.png "rogue")
 
 This is the first Grow Your Own (GYO) beer I've seen from Rogue. Every ingredient comes from their farm in Oregon. In fact, they proudly list their ingredients on their site:
 

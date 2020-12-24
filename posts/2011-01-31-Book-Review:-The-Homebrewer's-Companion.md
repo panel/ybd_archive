@@ -1,7 +1,7 @@
 Book Review: The Homebrewer's Companion
 =======================================
 
-\[caption id="attachment\_236" align="alignright" width="300" caption="The Homebrewer's Companion, by Charlie Papazian"\][![The Homebrewer's Companion](http://www.panel-creations.com/varsity_brew/wp-content/uploads/2010/06/homebrewerscompanion.jpg "The Homebrewer's Companion")](http://www.amazon.com/gp/product/0060584734?ie=UTF8&tag=yeasanddown-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0060584734)\[/caption\]
+![The Homebrewer's Companion](http://www.panel-creations.com/varsity_brew/wp-content/uploads/2010/06/homebrewerscompanion.jpg "The Homebrewer's Companion")
 
 Most of my issues with this book are really not Papazian's fault at all. It was included as part of a beginner's brewing kit by a local store - and it definitely is not a beginner's brewing book.
 

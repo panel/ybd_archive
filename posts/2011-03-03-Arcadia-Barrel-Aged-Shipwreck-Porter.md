@@ -3,7 +3,7 @@ Arcadia Barrel Aged Shipwreck Porter
 
 What. A. Beer.
 
-\[caption id="attachment\_942" align="alignright" width="300" caption="Arcadia Shipwreck Porter"\][![Arcadia Shipwreck Porter](http://www.yeastboundanddown.com/wp-content/uploads/2011/03/IMG_2464-300x293.jpg "Arcadia Shipwreck Porter")](http://www.yeastboundanddown.com/wp-content/uploads/2011/03/IMG_2464.jpg)\[/caption\]
+![Arcadia Shipwreck Porter](http://www.yeastboundanddown.com/wp-content/uploads/2011/03/IMG_2464-300x293.jpg "Arcadia Shipwreck Porter")
 
 If you've read more than a couple of our posts, you're probably well-aware that I'm a big fan of darker, maltier beers (i.e. porters), and Paul and I are both true lovers of a good bourbon-aged ale. So, this was a beer I was really excited to try (though that's [worked against a couple beers](http://www.yeastboundanddown.com/2011/03/winter-beer-fest-our-reviews/ "Winter Beer Fest – Our Reviews") in the recent past). Unfortunately, I couldn't find it in Ann Arbor - and in my search I realized there's really no good bottle shop in Ann Arbor. There are a few that are OK, but nothing that you go into expecting to find whatever you're looking for, regardless of how rare or new it is.
 

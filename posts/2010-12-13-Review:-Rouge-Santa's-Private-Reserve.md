@@ -1,7 +1,7 @@
 Review: Rouge Santa's Private Reserve
 =====================================
 
-\[caption id="attachment\_656" align="aligncenter" width="300" caption="Rogues Santa's Private Reserve - 6.4% ABV 65IBU"\][![Rogue Santa's Private Reserve](http://www.yeastboundanddown.com/wp-content/uploads/2010/12/IMG_20101201_183818-300x224.jpg "Rogue Santa's Private Reserve")](http://www.yeastboundanddown.com/wp-content/uploads/2010/12/IMG_20101201_183818.jpg)\[/caption\]
+![Rogue Santa's Private Reserve](http://www.yeastboundanddown.com/wp-content/uploads/2010/12/IMG_20101201_183818-300x224.jpg "Rogue Santa's Private Reserve")
 
 I'm absolute sucker for holiday/winter specialty beers. I think part of it is that they have a feeling the ephemerality. Part of it is definitely that they often play to my love of puns. The biggest reason is that their flavor profiles are generally right up my alley. When I think of a winter warmer or holiday beer, I imagine malty, leaning toward sweet, maybe some interesting spice notes, and definitely a warmth from the alcohol. What about that doesn't sound great?
 

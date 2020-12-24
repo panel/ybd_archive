@@ -1,7 +1,7 @@
 Beer Review: Sierra Nevada Northern Hemisphere Harvest
 ======================================================
 
-\[caption id="attachment\_444" align="aligncenter" width="640" caption="Sierra Nevada Northern Hemisphere Harvest Wet Hop Ale - 6.7% ABV"\][![Sierra Nevada Northern Hemisphere Harvest Wet Hop Ale - 6.7% ABV](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/IMG_20101014_213733-1024x764.jpg "Sierra Nevada Northern Hemisphere Harvest")](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/IMG_20101014_213733.jpg)\[/caption\]
+![Sierra Nevada Northern Hemisphere Harvest Wet Hop Ale - 6.7% ABV](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/IMG_20101014_213733-1024x764.jpg "Sierra Nevada Northern Hemisphere Harvest")
 
 I was back in Ann Arbor last weekend, so naturally Tim and I had to brew some beer. We went to [Adventures in Homebrewing](http://www.homebrewing.org "Adventures in Homebrewing") to pick up the ingredients for our beer and there were in the middle of packaging their fresh hops. Unfortunately, our schedule is kind of tight, and we had already decided to reprise our S'More Stout to be ready by the holidays.
 

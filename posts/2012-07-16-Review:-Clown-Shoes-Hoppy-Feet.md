@@ -7,17 +7,7 @@ I remember the first BIPA I tried. I was at my go to bar, with my go to server (
 
 I continued to keep a look out for BIPAs and picked them up at bottle shops or ordered them at the bar when I found them. But after a while, more and more started showing up. Some of them still blow me away, but the hit rate seems to have gone down, and I tend to look for other styles.
 
-\[caption id="attachment\_1176" align="alignright" width="300"\][![Fred Armisen from Portlandia](http://www.yeastboundanddown.com/wp-content/uploads/2012/06/over-300x161.png "over")](http://www.yeastboundanddown.com/wp-content/uploads/2012/06/over.png) BIPAS ARE OVER!\[/caption\]
-
-This is where I push up my hipster glasses and tell you how much better it was before Black IPAs were mainstream. I do worry that I'm becoming a beer snob who will turn up his nose at a perfectly good pint. Well, I decided to give it another go, and picked up a bomber of [Clown Shoes Hoppy Feet Black IPA](http://beeradvocate.com/beer/profile/22951/55019). The brewer describes it:
-
-> Hoppy Feet has been lovingly crafted by combining Premium malt with lots of Amarillo and Columbus Hops.  Grapefruit and Pine are balanced on the nose and on the palate by a nutty, dark chocolate, roasted backbone.
-
-This has been knocking around in my "cellar[1](#1)" for a while. I generally try to drink hoppy beers fresh. I think you get more of what the brewer is trying to produce that way. This may not be a completely fair shake, so I might try it from a tap if I see it around to compare.
-
-### Tasting Notes
-
-\[caption id="attachment\_1172" align="aligncenter" width="500"\][![Clown Shoes Hoppy Feet](http://www.yeastboundanddown.com/wp-content/uploads/2012/06/tumblr_m67f9avhWz1rzr3i9o1_500.jpg "tumblr_m67f9avhWz1rzr3i9o1_500")](http://www.yeastboundanddown.com/wp-content/uploads/2012/06/tumblr_m67f9avhWz1rzr3i9o1_500.jpg) Clown Shoes Hoppy Feet Black IPA\[/caption\]
+![Clown Shoes Hoppy Feet](http://www.yeastboundanddown.com/wp-content/uploads/2012/06/tumblr_m67f9avhWz1rzr3i9o1_500.jpg "tumblr_m67f9avhWz1rzr3i9o1_500")
 
 **Appearance**: The beer pours a very, dark copper, with very little translucence. Holding up it the light, you get some flashes of ruby. There was a one finger, creamy head that receded quickly down to about half a finger and remained there.
 

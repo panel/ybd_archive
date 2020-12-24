@@ -5,7 +5,7 @@ I've mentioned a lot of times that one of my favorite things about brewing is tr
 
 Jordan and I brewed another batch of our [Rye Saison](http://www.yeastboundanddown.com/2012/07/recipe-rye-saison/ "Recipe: Rye Saison") a few weeks ago. As we were brewing, we threw out a few different ideas. We thought about doing jalapeños, black peppercorns, sage and few a others. Eventually we landed on funky-ing up our beer with some _Brettanomyces._
 
-\[caption id="" align="alignright" width="250"\][![Brettanomyces](http://upload.wikimedia.org/wikipedia/en/thumb/1/19/Brettanomyces.jpg/250px-Brettanomyces.jpg "Brettanomyces")](http://upload.wikimedia.org/wikipedia/en/thumb/1/19/Brettanomyces.jpg/250px-Brettanomyces.jpg) Brettanomyces Cells\[/caption\]
+![Brettanomyces](http://upload.wikimedia.org/wikipedia/en/thumb/1/19/Brettanomyces.jpg/250px-Brettanomyces.jpg "Brettanomyces")
 
 _Brett_ is in the same family as almost all brewing yeasts, but it attacks sugar in a somewhat different way. We used [Wyeast 3711 (French Saison)](http://www.wyeastlab.com/rw_yeaststrain_detail.cfm?ID=199) in primary. This yeast eats most of the simple sugars and outputs most of the booze. The first batch this was all we used. We pitched the _Brett_ in secondary, after the Saison yeast did most of its work. During this phase, this yeast attacks the more complicated sugars in the wort and produces slightly more booze but also acetic acid and esters that give it that barnyard or horse blanket smell.
 

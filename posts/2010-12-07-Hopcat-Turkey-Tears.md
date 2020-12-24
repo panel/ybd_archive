@@ -1,7 +1,7 @@
 Hopcat Turkey Tears
 ===================
 
-\[caption id="" align="alignright" width="299" caption="Seriously. Turkey."\]![Hopcat Turkey Tears](http://www.yeastboundanddown.com/wp-content/uploads/2010/11/wpid-IMG_20101124_184623.jpg "Hopcat Turkey Tears")\[/caption\]
+![Hopcat Turkey Tears](http://www.yeastboundanddown.com/wp-content/uploads/2010/11/wpid-IMG_20101124_184623.jpg "Hopcat Turkey Tears")
 
 Just in time for the holiday, Hopcat made it possible to drink your Thanksgiving dinner - turkey, cranberry sauce, and all. Turkey Tears is based upon the Sage Against the Machine Pale Ale, but as the flyer says, is brewed with real turkey, cranberries, and honey. Though including meat as an ingredient in beer seems... odd, to say the least, I couldn't resist trying something new.
 

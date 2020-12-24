@@ -5,7 +5,7 @@ _Part of our Michigan Beer Week._
 
 Yet another of the beers I bought on my recent snowboarding trip, I decided to stick with the Northern Michigan theme and picked up a Short's beer, The Wizard. They describe it as a barley wine brewed with raisins.
 
-\[caption id="attachment\_787" align="alignright" width="242" caption="Short's The Wizard"\][![Short's The Wizard](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/IMG_2304-242x300.jpg "Short's The Wizard")](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/IMG_2304.jpg)\[/caption\]
+![Short's The Wizard](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/IMG_2304-242x300.jpg "Short's The Wizard")
 
 The beer has a great barleywine color and head, though it may be just a little bit darker than most barleywines. That could be due to the adjunct being dark in color, or more malt. Either way, no complaints here.
 

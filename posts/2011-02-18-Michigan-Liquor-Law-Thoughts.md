@@ -1,7 +1,7 @@
 Michigan Liquor Law Thoughts
 ============================
 
-\[caption id="attachment\_570" align="alignright" width="300" caption="Michigan: The Great Beer State?"\][![Michigan: The Great Beer State?](http://www.yeastboundanddown.com/wp-content/uploads/2010/11/IMG_1378-300x200.jpg "The Great Beer State")](http://www.yeastboundanddown.com/wp-content/uploads/2010/11/IMG_1378.jpg)\[/caption\]
+![Michigan: The Great Beer State?](http://www.yeastboundanddown.com/wp-content/uploads/2010/11/IMG_1378-300x200.jpg "The Great Beer State")
 
 I've already posted on [Michigan Liquor Laws](http://www.yeastboundanddown.com/2010/11/michigan-liquor-laws-a-changin/) once, but I think it's also important to say not only what those laws are, but what I think they should be. I've traveled to many states, and though Michigan is often known as one of the most beer-friendly, that doesn't mean there are some things I'd like to see changed. Shockingly, considering the nature of this site, most of my suggestions involved loosening restrictions.
 

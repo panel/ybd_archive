@@ -1,7 +1,7 @@
 Beer Review: Hop Rod Rye
 ========================
 
-\[caption id="" align="aligncenter" width="499" caption="Bear Republic's Hop Rod Rye"\]![Hop Rod Rye](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/wpid-IMG_20101005_203808.jpg)\[/caption\]
+![Hop Rod Rye](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/wpid-IMG_20101005_203808.jpg)
 
 So the problem with going to [Binny's](http://www.binnys.com/index.cfm) is that despite the individual prices being lower, I always end up picking one or two extra things. After writing the review of the Cane and Ebel, this Bomber of rye ale caught my eye. It's made by [Bear Republic](http://bearrepublic.com/) in Healdsburg, CA who describes it as:
 

@@ -1,7 +1,7 @@
 Short's Brew S'more Stout
 =========================
 
-\[caption id="attachment\_549" align="alignright" width="300" caption="Short's S'more Stout"\][![Short's S'more Stout](http://www.yeastboundanddown.com/wp-content/uploads/2010/11/IMG_0640-300x200.jpg "Short's S'more Stout")](http://www.yeastboundanddown.com/wp-content/uploads/2010/11/IMG_0640.jpg)\[/caption\]
+![Short's S'more Stout](http://www.yeastboundanddown.com/wp-content/uploads/2010/11/IMG_0640-300x200.jpg "Short's S'more Stout")
 
 I was particularly interested in trying this beer because we've brewed a s'more stout of our own, though unfortunately in the days when we weren't so diligent with the blogging. Their recipe is undoubtedly different than our own was (in no small part because it was one of our first few batches, and we didn't quiiiite know what we were doing yet).
 

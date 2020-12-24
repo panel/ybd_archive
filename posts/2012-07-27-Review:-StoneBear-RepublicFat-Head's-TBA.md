@@ -15,7 +15,7 @@ It's a worthy goal. Brown ales are often overlooked by beer enthusiasts. They of
 
 ### Tasting Notes
 
-\[caption id="attachment\_1248" align="aligncenter" width="500"\][![Bear Republic / Fat Head's / Stone TBA Brown Ale](http://www.yeastboundanddown.com/wp-content/uploads/2012/07/tumblr_m7aeonwyNM1rzr3i9o1_500.jpeg "Bear Republic / Fat Head's / Stone TBA Brown Ale")](http://www.yeastboundanddown.com/wp-content/uploads/2012/07/tumblr_m7aeonwyNM1rzr3i9o1_500.jpeg) Bear Republic / Fat Head's / Stone TBA Brown Ale\[/caption\]
+![Bear Republic / Fat Head's / Stone TBA Brown Ale](http://www.yeastboundanddown.com/wp-content/uploads/2012/07/tumblr_m7aeonwyNM1rzr3i9o1_500.jpeg "Bear Republic / Fat Head's / Stone TBA Brown Ale")
 
 **Appearance**: The head formed so quickly as I poured this beer that I almost made a mess. Once it settled down, the beer was a cloudy rust color with a two finger tan head that is still receding down the glass.
 

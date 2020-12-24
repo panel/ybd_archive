@@ -1,7 +1,7 @@
 What We've Learned
 ==================
 
-\[caption id="" align="alignright" width="184" caption="The new equipment really helped"\]![The new equipment really helped](http://lh3.ggpht.com/_yB8ZIqebwqg/SiwP_kGwNbI/AAAAAAAAA9M/Gx3Kq1uVR3o/s512/IMG_1239.JPG "Bottling Bucket")\[/caption\]
+![The new equipment really helped](http://lh3.ggpht.com/_yB8ZIqebwqg/SiwP_kGwNbI/AAAAAAAAA9M/Gx3Kq1uVR3o/s512/IMG_1239.JPG "Bottling Bucket")
 
 Before we attempted to brew our first beer we read a lot of stuff on the subject. We probably read too much. Every website and book had slightly different procedures to brew. One says proof the yeast; one says just sprinkle it on top; they almost all referred to equipment we didn't have. Once we finally got to the intructions, there were so many different ideas and methods out there that it got confusing and inconsistent.  For our second beer, we read completely through the instructions, planned out what we needed to do, and then simply went through the steps. It was amazingly simple.
 

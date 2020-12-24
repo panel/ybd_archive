@@ -9,7 +9,7 @@ This beer evokes to me the phrase that has lead to many innovations in brewing a
 
 If I see Laura (unlikely), I'm going to buy here a drink, because this is exactly what I love about personally about homebrewing and as a consumer about  craft brewing. Take a risk, go out on a limb, don't be afraid to fail. Stone has been doing that for a long time.
 
-\[caption id="attachment\_1238" align="aligncenter" width="500"\][![Stone Smoked Porter w/ Vanilla Bean](http://www.yeastboundanddown.com/wp-content/uploads/2012/07/tumblr_m70tpx8q6i1rzr3i9o1_500.jpeg "Stone Smoked Porter w/ Vanilla Bean")](http://www.yeastboundanddown.com/wp-content/uploads/2012/07/tumblr_m70tpx8q6i1rzr3i9o1_500.jpeg) Stone Smoked Porter w/ Vanilla Bean 5.9%\[/caption\]
+![Stone Smoked Porter w/ Vanilla Bean](http://www.yeastboundanddown.com/wp-content/uploads/2012/07/tumblr_m70tpx8q6i1rzr3i9o1_500.jpeg "Stone Smoked Porter w/ Vanilla Bean")
 
 ### Review
 

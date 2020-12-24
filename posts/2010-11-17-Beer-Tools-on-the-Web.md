@@ -5,12 +5,7 @@ We're currently living in a golden age of brewing and drinking. It seems like ev
 
 I want to give some love to tools that have helped me in my exploits in brewing and drinking from helping me formulate recipes to helping me find bars I want to go to after moving to Chicago. This is by no means exhaustive, and it is not in any order. It's just a collection of useful and/or interesting online beer resources.
 
-*   \[caption id="" align="alignright" width="247" caption="The Beer Recipator 2.2"\][![The Beer Recipator 2.2](http://hbd.org/recipator/recipator.gif "Recipator")](http://hbd.org/cgi-bin/recipator/recipator)\[/caption\]
-    
-    [The Beer Recipator](http://hbd.org/cgi-bin/recipator/recipator) **–** This delightfully Web 1.0 tool is where we created our [first beer recipe](http://www.yeastboundanddown.com/2009/06/peanut-butter-porter-recipe/). While this might not be the prettiest website to look at, it can help you put together a really solid recipe. While there are a limited number of grains and some of the newer hop varieties are missing, you can modify the parameters of each to match your ingredients or even add completely custom ingredients. I've used this website for extract, partial mash and all grain recipes, and it provides a really easy, free way to get an idea of what your beer will be like.
-    
-
-*   \[caption id="" align="alignright" width="160" caption="This helped me find a lot of great bars in Chicago"\][![BeerMenus.com](http://www.beermenus.com/images/beer-menus-logo-small.jpg "beer menus")](http://www.beermenus.com/)\[/caption\]
+*   ![BeerMenus.com](http://www.beermenus.com/images/beer-menus-logo-small.jpg "beer menus")
     
     **[BeerMenus.com](http://www.beermenus.com/)** – Currently this is only available for New York City, Philadelphia, Chicago and San Francisco. It is a curated list of beers and bars. The cool thing is that it is indexed by both beer and bar. If you're looking for a particular beer, you can not only see which bars are carrying it, but the serving style (tap, draft) and price. Want to get a feel for a bar? Just check out its page on BeerMenus. You get a list of featured beers, bottles and drafts. Right at the top it lets you know the last time it was updated, so you can tell about how up to date it is. Any registered user can go in and update a bars line up to reflect what they have on tap. Hopefully this site will expand to future cities, or at least create uncurated, beta sites.
     

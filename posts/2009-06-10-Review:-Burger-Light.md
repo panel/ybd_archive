@@ -1,7 +1,7 @@
 Review: Bürger Light
 ====================
 
-\[caption id="attachment\_77" align="alignright" width="175" caption="Bürger Light, Cincinnati, Ohio"\]![Bürger Light, Cincinatti, Ohio](http://www.panel-creations.com/varsity_brew/wp-content/uploads/2009/06/burger-light-beer-175x300.jpg "burger-light-beer")\[/caption\]
+![Bürger Light, Cincinatti, Ohio](http://www.panel-creations.com/varsity_brew/wp-content/uploads/2009/06/burger-light-beer-175x300.jpg "burger-light-beer")
 
 Last night I was watching the hockey game with some friends. We started off drinking Bell's Oberon, which most people in the region know, but being poor college kids/poor college graduates, economics eventually took over.
 

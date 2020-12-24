@@ -5,7 +5,7 @@ Most beer lovers have a couple craft brewers that they love, and a couple more t
 
 A recent visit from Ann Arbor ex-pat Paul stemmed the standard night for the two of us last weekend: the impromptu microbrewery crawl. Starting with **The Blue Tractor**, we moved on to **Arbor Brewing Company**, then **Grizzly Peak**, and finally **Jolly Pumpkin**.
 
-\[caption id="attachment\_690" align="aligncenter" width="493" caption="The route for our impromptu bar crawl"\][![Impromptu Bar Crawl](http://www.yeastboundanddown.com/wp-content/uploads/2010/12/Screen-shot-2010-12-21-at-12.23.49-PM.png "Impromptu Bar Crawl")](http://maps.google.com/maps/ms?ie=UTF&msa=0&msid=202378594198924022536.000497efafc0a38182b29)\[/caption\]
+![Impromptu Bar Crawl](http://www.yeastboundanddown.com/wp-content/uploads/2010/12/Screen-shot-2010-12-21-at-12.23.49-PM.png "Impromptu Bar Crawl")
 
 Despite popular opinions on these fine establishments, I've never been a huge fan of Arbor or Jolly Pumpkin. Believe me, I've tried to find something that I enjoy at each of them, but have found nothing that tickles my fancy. The more knowledgeable folk have raved about them, the more out of the loop I've felt–until now.
 

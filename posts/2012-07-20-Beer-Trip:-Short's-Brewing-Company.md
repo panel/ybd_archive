@@ -13,33 +13,7 @@ Thanks to a wedding in Traverse City, I found myself in the wild North of Michig
 
 I knew Bellaire was in the middle of nowhere, but man, Bellaire is in the middle of _nowhere_. From Traverse City, there are primary routes to take: along the Grand Traverse Bay, or around the other side of Torch and Elk Lakes to the East.
 
-\[caption id="attachment\_1257" align="alignright" width="225"\][![Short's Brewing Company factory](http://www.yeastboundanddown.com/wp-content/uploads/2012/07/photo-e1342627166229-225x300.jpg "Short's Brewing Company factory")](http://www.yeastboundanddown.com/wp-content/uploads/2012/07/photo.jpg) Short's production facility. "Glory" is a term used loosely in this instance. Sweet rearview, bro.\[/caption\]
-
-Since the Short's production facility is actually in Elk Rapids, about 30 miles from Bellaire, I took the Western route on the way up, and swung by the factory to experience its glory. It was not thrilling, and certainly not while I was just swinging by as I hustled to make it to the brewpub itself.
-
-Elk Rapids is no metropolis itself, but is actually in a pretty cool location, on the channel between Elk Lake and the Grand Traverse Bay. As I said, I didn't head into the town itself too much.
-
-As for the brewpub itself, I've already mentioned that it's... remote... and that's the case. The town of Bellaire consisted entirely of a couple blocks, and the brewery is on the Western edge of that town.
-
-### Setting and Atmosphere
-
-Bellaire is a quintessential resort town (but with no real reason to visit, other than the variety of lakes a short distance away, I guess), and Short's is one of the few things that seems like it would bring people into the town. From the outside, it's an unassuming building as part of a city block.
-
-\[caption id="attachment\_1259" align="alignleft" width="225"\][![Short's Brewing Company Brewpub](http://www.yeastboundanddown.com/wp-content/uploads/2012/07/photo-1-e1342627587308-225x300.jpg "Short's Brewing Company Brewpub")](http://www.yeastboundanddown.com/wp-content/uploads/2012/07/photo-1.jpg) The calm before the storm.\[/caption\]
-
-Stepping inside, however, thinks go from up North casual to that bustling feeling we've all come to know and love in brewpubs. All orders are taken at the counter - be they for food or beer - but wait staff actually brings the product to you once you grab a table flag and find a seat in one of two rooms.
-
-The bar room is the one you enter walking into the storefront, but near the back of the space, there is a short set of stairs down into a larger (or at least more spacious) room. In that room, there is a nice stage for live music, and a number of hightop tables along the walls, and standard low-top tables with seating along the middle.
-
-I would have love to have the opportunity to see some live music there, and if it wasn't so remote, I would make a trip just to see that (and to get some more interesting beers - more about that in a moment). As it stands, it's likely something that won't happen without a special set of circumstances.
-
-### The Beer
-
-So, I mention that there weren't many great beers - or at least not exciting ones - on my trip to Short's. That is in direct contradiction with my opening paragraphs, no?
-
-Well, my speculation (the place was busy enough that I didn't want to hassle any waitstaff about it) is that, thanks to the Michigan Brewer's Guild summer festival in just a couple weeks, they're holding off on presenting many creative offerings in the brewpub until after that event.
-
-\[caption id="attachment\_1260" align="alignright" width="225"\][![Short's Brewing Company beers](http://www.yeastboundanddown.com/wp-content/uploads/2012/07/photo-2-e1342628106203-225x300.jpg "Short's Brewing Company beers")](http://www.yeastboundanddown.com/wp-content/uploads/2012/07/photo-2.jpg) Flight paddle.\[/caption\]
+![Short's Brewing Company beers](http://www.yeastboundanddown.com/wp-content/uploads/2012/07/photo-2-e1342628106203-225x300.jpg "Short's Brewing Company beers")
 
 Regardless, I wasn't going to drive that far North without trying a few brews - albeit a couple I'd had before - so I picked up a flight. The image at right shows (from near to far): 2009 Golden Rule, Alter Spalter, Autumn Ale, Spruce Pils, and The Magician.
 

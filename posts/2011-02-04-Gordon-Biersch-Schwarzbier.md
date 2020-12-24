@@ -5,7 +5,7 @@ The full extent of my knowledge on Gordon Biersch other than this beer relates t
 
 On with the show:
 
-\[caption id="attachment\_700" align="alignright" width="300" caption="Gordon Biersch Schwarzbier"\][![Gordon Biersch Schwarzbier](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/wpid-IMG_20110103_140537-300x224.jpg "Gordon Biersch Schwarzbier")](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/wpid-IMG_20110103_140537.jpg)\[/caption\]
+![Gordon Biersch Schwarzbier](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/wpid-IMG_20110103_140537-300x224.jpg "Gordon Biersch Schwarzbier")
 
 The beer looks like a standard schwarzbier, with a nearly-black body, and a caramel-colored head. As you can see from the image at right, it was a thick, fluffy head that lattices on its way down the glass. The aroma was roasted malts with a little bit of hop bitterness.
 

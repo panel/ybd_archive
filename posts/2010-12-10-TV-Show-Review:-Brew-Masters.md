@@ -1,7 +1,7 @@
 TV Show Review: Brew Masters
 ============================
 
-\[caption id="attachment\_650" align="aligncenter" width="406" caption="Brew Masters"\][![Brew Masters on Discovery Channel](http://www.yeastboundanddown.com/wp-content/uploads/2010/12/brewmaster.png "Brew Masters")](http://www.yeastboundanddown.com/wp-content/uploads/2010/12/brewmaster.png)\[/caption\]
+![Brew Masters on Discovery Channel](http://www.yeastboundanddown.com/wp-content/uploads/2010/12/brewmaster.png "Brew Masters")
 
 Now that the **Discovery Channel**'s "Brew Masters" has a few episodes under its belt, we have a pretty good picture of what it will be. **Sam Calagione**, founder and owner of **[Dogfish Head](http://dogfish.com/)**, talks about the inspiration for his beers, the methods behind creating them, and delves into the history of brewing traditions around the world.
 

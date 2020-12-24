@@ -1,7 +1,7 @@
 Beer Review: Leinenkugel's Big Eddy
 ===================================
 
-\[caption id="attachment\_429" align="aligncenter" width="300" caption="Leinenkugel's Big Eddy Imperial Stout - 9.5% ABV 74 IBU"\][![Leinenkugel's Big Eddy](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/IMG_20101012_173500-300x224.jpg "IMG_20101012_173500")](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/IMG_20101012_173500.jpg)\[/caption\]
+![Leinenkugel's Big Eddy](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/IMG_20101012_173500-300x224.jpg "IMG_20101012_173500")
 
 First off, sorry for the blurry picture. My phone decided that focusing was a bridge too far, and there was only a limited time to snap this photo. Big Eddy is a special release Russian Imperial Stout from Leinenkugel. It's 9.5% ABV and clocks in at 74IBU. An interesting note is that they do not propagate the yeast for this beer. They brewed it once before with a special White Labs yeast and spent a significant amount of money getting that same yeast for this version.
 

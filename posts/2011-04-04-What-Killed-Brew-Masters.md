@@ -1,7 +1,7 @@
 What Killed Brew Masters?
 =========================
 
-\[caption id="attachment\_650" align="aligncenter" width="406" caption="Brew Masters"\][![Brew Masters on Discovery Channel](http://www.yeastboundanddown.com/wp-content/uploads/2010/12/brewmaster.png "Brew Masters")](http://www.yeastboundanddown.com/wp-content/uploads/2010/12/brewmaster.png)\[/caption\]
+![Brew Masters on Discovery Channel](http://www.yeastboundanddown.com/wp-content/uploads/2010/12/brewmaster.png "Brew Masters")
 
 "The Dogfish Show," as most people I know called it, had a very brief run on The Discovery Channel, as the network chose not to renew the show after its first season. The conspiracy theorists are out in full force, with accusations that Big Beer (those are scare-tactic capital letters) [killed the show](http://beernews.org/2011/03/no-reservations-anthony-bourdain-big-beer-threatened-to-pull-ads-on-dogfish-headdiscovery-deal/?utm_source=rss&utm_medium=rss&utm_campaign=no-reservations-anthony-bourdain-big-beer-threatened-to-pull-ads-on-dogfish-headdiscovery-deal). Of course, there have been retractions and/or [clarifications](http://feedproxy.google.com/~r/Beerscribecom/~3/N5vwS3zKAzs/) of that accusation, and even some denials by Big Beer.
 

@@ -3,7 +3,7 @@ Am I Spoiled?
 
 I've been living in Chicago for just about 3 months now, and I've more or less figured out where in my neighborhood I can go to belly up and have a pint or three.  I have a few awesome multi-taps around me like [Sheffields](http://www.beermenus.com/cities/chicago/bars/sheffield-s) or [Local Option](http://www.beermenus.com/cities/chicago/bars/local-option) and neither [Goose](http://www.beermenus.com/cities/chicago/bars/goose-island-brewpub-clybourn-location-) [Island](http://www.beermenus.com/cities/chicago/bars/goose-island-brewpub-wrigleyville) tap house is too far.
 
-\[caption id="attachment\_666" align="aligncenter" width="500" caption="photo by flickr user JanetandPhil"\][![A Standard Selection of Taps](http://www.yeastboundanddown.com/wp-content/uploads/2010/12/taps.jpg "A Standard Selection of Taps")](http://www.yeastboundanddown.com/wp-content/uploads/2010/12/taps.jpg)\[/caption\]
+![A Standard Selection of Taps](http://www.yeastboundanddown.com/wp-content/uploads/2010/12/taps.jpg "A Standard Selection of Taps")
 
 Beyond these destination beer bars, I've noticed that almost every bar has tab options beyond the standard American macros. I've grown accustomed to many of the standard imports (Guinness, Smithwicks, Becks, Heineken) in my 3 years of going to the bar, but beyond these Chicago seems to have a class of pervasive micros. Almost every bar that I've been to has both **Boston Lager** as well as the **Sam Adams** seasonal offering. Most also have at least one of either **Fat Tire** or **Magic Hat #9** or even both.
 

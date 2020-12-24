@@ -21,7 +21,7 @@ Wednesday morning I got an email from the excellent [Chicago Beer Society](http:
 
 I originally wasn't planning on stopping in. I had some silly ideas of going to the gym, and I was heading to rare beer event at Sheffield's later that night. All that said, as I walked by Local Option on the walk home, I was drawn in like a moth to the flame.
 
-\[caption id="attachment\_979" align="alignright" width="300" caption="Some of the Taps at Local Option"\][![Local Option](http://www.yeastboundanddown.com/wp-content/uploads/2011/03/local-option1-300x227.jpg "Local Option")](http://www.yeastboundanddown.com/wp-content/uploads/2011/03/local-option1.jpg)\[/caption\]
+![Local Option](http://www.yeastboundanddown.com/wp-content/uploads/2011/03/local-option1-300x227.jpg "Local Option")
 
 The place was packed with a wide assortment of beer nerds. There were the stereotypical befacialhaired folk wearing the shirt/hoodie of their favorite brewery; there were men and women still in fancy-pants work clothes; there were DePaul students in their craft beer adolescence with a chance to try one of the pinnacles of the movement. What I'm trying to say is that it was a diverse, excited crowd all waiting for 6pm when the [Founders](http://www.foundersbrewing.com/) kegs would be tapped. I've [mentioned this before](http://www.yeastboundanddown.com/2011/02/hopslam-in-chicago/ "Hopslam in Chicago"), but like going to see a movie at midnight, going to special tappings and being immersed in a crowd that is buzzing with excitement for the same thing makes the wait nearly as exciting as the payoff.
 

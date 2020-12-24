@@ -1,7 +1,7 @@
 Review: Rogue Morimoto Flight
 =============================
 
-\[caption id="" align="alignright" width="299" caption="From left to right: Black Obi Soba, Hazelnut Brown, Imperial Pilsner, and Soba Ale."\]![Rogue Morimoto Flight](http://www.yeastboundanddown.com/wp-content/uploads/2010/11/wpid-IMG_20101029_134515.jpg)\[/caption\]
+![Rogue Morimoto Flight](http://www.yeastboundanddown.com/wp-content/uploads/2010/11/wpid-IMG_20101029_134515.jpg)
 
 While I love living in Ann Arbor, traveling to Actual Cities (note the capital-A, capital-C) affords a lot of opportunities to try new things, even if that city is in Pennsylvania, one of the least beer-friendly states in the union.
 

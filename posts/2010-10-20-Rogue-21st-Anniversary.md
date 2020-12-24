@@ -29,7 +29,7 @@ This beer is quite sweet both on the nose and in flavor. There's a very subtle s
 
 ### Stone 14th Anniversary Ale
 
-\[caption id="attachment\_475" align="alignright" width="300" caption="mmmmm... Ashley's"\][![mmmmm... Ashley's](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/ashleys-300x224.png "ashleys")](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/ashleys.png)\[/caption\]This was obviously the odd beer out, as the other offerings all came from Rogue, and this is a Stone brew. The boys in Escondido created an "Emperial IPA," or a double imperial IPA to celebrate 14 years.
+![mmmmm... Ashley's](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/ashleys-300x224.png "ashleys")This was obviously the odd beer out, as the other offerings all came from Rogue, and this is a Stone brew. The boys in Escondido created an "Emperial IPA," or a double imperial IPA to celebrate 14 years.
 
 The aroma isn't too hoppy, especially for what you'd expect out of the style, but what hops are discernible are of a sweeter variety.
 

@@ -1,7 +1,7 @@
 Trying Weird Beers
 ==================
 
-\[caption id="" align="alignright" width="299" caption="Seriously. Turkey."\]![Hopcat Turkey Tears](http://www.yeastboundanddown.com/wp-content/uploads/2010/11/wpid-IMG_20101124_184623.jpg "Hopcat Turkey Tears")\[/caption\]
+![Hopcat Turkey Tears](http://www.yeastboundanddown.com/wp-content/uploads/2010/11/wpid-IMG_20101124_184623.jpg "Hopcat Turkey Tears")
 
 When most people turn 21, they start out drinking the American macros (OK, many of them before they're of legal age). Some may move on to a limited selection of craft brews, and even some home brews. Few, however, probably move into the realm of trying things that are downright off-the-wall.
 

@@ -3,7 +3,7 @@ Review: Waldorff Bee Sting Honey Rye
 
 From Waldorff Brewpub in Hastings, Michigan.
 
-\[caption id="attachment\_184" align="alignright" width="300" caption="Waldorff Brewpub's Bee Sting Honey Rye"\][![Waldorff Brewpub's Bee Sting Honey Rye](http://www.panel-creations.com/varsity_brew/wp-content/uploads/2009/09/waldorffbeesting-300x225.jpg "Waldorff Brewpub's Bee Sting Honey Rye")](http://www.panel-creations.com/varsity_brew/wp-content/uploads/2009/09/waldorffbeesting.jpg)\[/caption\]
+![Waldorff Brewpub's Bee Sting Honey Rye](http://www.panel-creations.com/varsity_brew/wp-content/uploads/2009/09/waldorffbeesting-300x225.jpg "Waldorff Brewpub's Bee Sting Honey Rye")
 
 Size: 22 fl oz. bottle
 

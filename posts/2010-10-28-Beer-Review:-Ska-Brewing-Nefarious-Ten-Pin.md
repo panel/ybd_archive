@@ -1,7 +1,7 @@
 Beer Review: Ska Brewing Nefarious Ten Pin
 ==========================================
 
-\[caption id="attachment\_473" align="aligncenter" width="500" caption="Ska Brewing's Nefarious Ten Pin - 8.0% ABV"\][![Ska Brewing Nefarious Ten Pin](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/ten_pin.png "ten_pin")](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/ten_pin.png)\[/caption\]
+![Ska Brewing Nefarious Ten Pin](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/ten_pin.png "ten_pin")
 
 I'll be honest, a big draw of this beer was the wax seal. You don't put a wax seal on your beer unless your damn proud of it, right? The fact that it's an imperial porter didn't hurt either. I've seen quite a few imperial stouts, but I can't recall another imperial porter that I've tried.
 

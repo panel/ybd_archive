@@ -5,7 +5,7 @@ Williams Brothers make some interesting beers. I've written about their [elderbe
 
 Pine needles actually have a long history in brewing. In colonial American, many homebrewers would just use pine needles or spruce tips as a bittering agent since they were plentiful and much easier to cultivate initially than hops.
 
-\[caption id="attachment\_1106" align="aligncenter" width="418"\][![Alba Scots Pine Ale ](http://www.yeastboundanddown.com/wp-content/uploads/2011/06/IMG_20110618_192451.jpg "Alba Scots Pine Ale ")](http://www.yeastboundanddown.com/wp-content/uploads/2011/06/IMG_20110618_192451.jpg) Alba Scots Pine Ale - 7.5% ABV\[/caption\]
+![Alba Scots Pine Ale ](http://www.yeastboundanddown.com/wp-content/uploads/2011/06/IMG_20110618_192451.jpg "Alba Scots Pine Ale ")
 
 **Appearance**: The beer poured a dark, coppery amber with a finger or two of creamy head that has dissipated quickly. There are some bubbles floating up from the bottom.
 

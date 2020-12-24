@@ -1,7 +1,7 @@
 Review: Shorts Bellaire Brown
 =============================
 
-\[caption id="attachment\_97" align="aligncenter" width="191" caption="Shorts Bellaire Brown"\]![Shorts Bellaire Brown](http://www.panel-creations.com/varsity_brew/wp-content/uploads/2009/06/brown.png "brown")\[/caption\]
+![Shorts Bellaire Brown](http://www.panel-creations.com/varsity_brew/wp-content/uploads/2009/06/brown.png "brown")
 
 I've been a big fan of Brown Ales for a while. The first time I ever really remember tasting a Brown and really enjoying it was at Leopold Brothers'.  For a while, that was the high water mark for that style. Then, I tried the Bellaire Brown from Shorts.
 

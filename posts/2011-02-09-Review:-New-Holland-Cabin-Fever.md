@@ -1,7 +1,7 @@
 Review: New Holland Cabin Fever
 ===============================
 
-\[caption id="attachment\_784" align="alignright" width="255" caption="New Holland Cabin Fever, Complete with Commemorative Big Chill Glass"\][![New Holland Cabin Fever](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/IMG_2302-255x300.jpg "New Holland Cabin Fever")](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/IMG_2302.jpg)\[/caption\]
+![New Holland Cabin Fever](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/IMG_2302-255x300.jpg "New Holland Cabin Fever")
 
 I spent last weekend in Northern Michigan snowboarding, and what better beer to commemorate such an occasion than one called "Cabin Fever?" I picked up an individual bottle in a mix-and-match six pack on my way to the eponymous cabin.
 

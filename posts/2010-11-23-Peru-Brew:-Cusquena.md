@@ -1,7 +1,7 @@
 Peru Brew: Cusqueña
 ===================
 
-\[caption id="" align="alignright" width="299" caption="Cusqueña Preium Lager"\]![Cusqueña Preium Lager](http://www.yeastboundanddown.com/wp-content/uploads/2010/11/wpid-IMG_20101026_193427.jpg "Cusqueña Preium Lager")\[/caption\]
+![Cusqueña Preium Lager](http://www.yeastboundanddown.com/wp-content/uploads/2010/11/wpid-IMG_20101026_193427.jpg "Cusqueña Preium Lager")
 
 My recent trip to Philadelphia provided the opportunity to try many things that aren't available in Ann Arbor. One such product is a Peruvian import: Cusqueña. Cusquena is produced by the Backus & Johnston Brewery, [acquired in 2002](http://findarticles.com/p/articles/mi_m0OQC/is_4_3/ai_100463052/) by Grupo Empresarial Bavaria, an international subsidiary of SABMiller.
 

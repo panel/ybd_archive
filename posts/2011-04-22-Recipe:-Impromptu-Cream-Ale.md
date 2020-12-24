@@ -1,7 +1,7 @@
 Recipe: Impromptu Cream Ale
 ===========================
 
-\[caption id="attachment\_660" align="alignright" width="150" caption="Stove Substitute: Not So Useful"\][![Stove Substitute: Not So Useful](http://www.yeastboundanddown.com/wp-content/uploads/2010/12/IMG_1688-150x150.jpg "Stove Substitute: Not So Useful")](http://www.yeastboundanddown.com/wp-content/uploads/2010/12/IMG_1688.jpg)\[/caption\]
+![Stove Substitute: Not So Useful](http://www.yeastboundanddown.com/wp-content/uploads/2010/12/IMG_1688-150x150.jpg "Stove Substitute: Not So Useful")
 
 I've been back to Ann Arbor several times since moving to Chicago. When I make it back, Tim and I try to do some sort of fermentable exercise. The only problem: Tim has been without a stove for the past 5 months or so. That certainly hasn't stopped us. We have just had to be a bit more creative. This spawned our [mead](http://www.yeastboundanddown.com/2011/04/the-three-meads/ "The Three Meads") and [cider](http://www.yeastboundanddown.com/2010/12/ybd-hard-cider/ "YBD Hard Cider"), both of which can be made without any sort of heating element.
 

@@ -1,7 +1,7 @@
 Peppercorn Bacon Beer
 =====================
 
-\[caption id="attachment\_759" align="alignright" width="300" caption="Bacon Pepper Beer"\][![Bacon Pepper Beer](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/wpid-IMG_20110119_200201-300x224.jpg "Bacon Pepper Beer")](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/wpid-IMG_20110119_200201.jpg)\[/caption\]
+![Bacon Pepper Beer](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/wpid-IMG_20110119_200201-300x224.jpg "Bacon Pepper Beer")
 
 We don't want to get into a habit of reviewing homebrews (other than our own of course), because there are so many out there, and they're often consumed in small portions and large varieties at once.
 

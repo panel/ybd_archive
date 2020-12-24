@@ -3,11 +3,7 @@ Bare-Bones Basics #2: Hops
 
 Now, most beer drinkers know that beer has 4 things in it: Water, Grain, Hops, and Yeast. In our first Bare-Bones Basics dealing with one of these, we're going to talk about the hops.
 
-\[caption id="attachment\_85" align="aligncenter" width="225" caption="Hop flowers"\]![Hop flowers](http://www.panel-creations.com/varsity_brew/wp-content/uploads/2009/06/hopfield-225x300.jpg "hop-field")\[/caption\]
-
-Hops are small green flowers (biologist-types will call them 'strobiles') that grow on the humulus, which is a vine-like plant. These flowers are harvested once a year in late summer. Since hops lose their bitterness easily, most often, they are ground up, dried, and frozen, until they are sent off to be put in beer. Often, especially for the homebrewer, the ground up hops are made into small 'plugs' or 'pellets' as seen below.
-
-\[caption id="attachment\_82" align="aligncenter" width="250" caption="Paul holding a small bag of hop pellets."\]![Paul holding a small bag of hop pellets.](http://www.panel-creations.com/varsity_brew/wp-content/uploads/2009/06/hops.jpg "hops")\[/caption\]
+![Paul holding a small bag of hop pellets.](http://www.panel-creations.com/varsity_brew/wp-content/uploads/2009/06/hops.jpg "hops")
 
 As many people know, hops are what give beer a bitter flavor or aroma. It is, however, not as Boston Beer Company says, where "Hops are to beer like grapes are to wine." Hops provide no sugars to the wort. In fact, you can make beer without hops at all, though it may be a little sweet and/or bland. Flavor-wise, hops do two things, depending on when you add them to your wort.
 

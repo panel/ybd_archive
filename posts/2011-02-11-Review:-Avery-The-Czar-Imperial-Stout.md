@@ -11,7 +11,7 @@ The company itself describes the beer:
 
 This is the perfect night for an imperial stout, and I might get to work from home tomorrow, so I'm in a good mood to try this. Here's hoping that Avery can win this round!
 
-\[caption id="attachment\_820" align="alignright" width="294" caption="The Czar Imperial Stout - 11.69% ABV and 70IBUs"\][![The Czar Imperial Stout](http://www.yeastboundanddown.com/wp-content/uploads/2011/02/IMG_20110201_220518-e1296620548585-294x300.jpg "The Czar Imperial Stout")](http://www.yeastboundanddown.com/wp-content/uploads/2011/02/IMG_20110201_220518.jpg)\[/caption\]
+![The Czar Imperial Stout](http://www.yeastboundanddown.com/wp-content/uploads/2011/02/IMG_20110201_220518-e1296620548585-294x300.jpg "The Czar Imperial Stout")
 
 Appearance: The beer pours dark, opaque brown with a couple ruby flashes if the light hits it the right way. There was a huge, fluffy caramel head that laced down quickly. A thin layer of foam is fighting the good fight still now.
 

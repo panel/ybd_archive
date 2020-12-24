@@ -1,7 +1,7 @@
 Schmaltz He'Brew Jewbelation Fourteen
 =====================================
 
-\[caption id="attachment\_638" align="aligncenter" width="300" caption="Schmaltz He'brew Jewbelation 14"\][![Schmaltz He'brew Jewbelation 14](http://www.yeastboundanddown.com/wp-content/uploads/2010/11/IMG_20101128_203357-300x224.jpg "He'brew Jewbelation")](http://www.yeastboundanddown.com/wp-content/uploads/2010/11/IMG_20101128_203357.jpg)\[/caption\]
+![Schmaltz He'brew Jewbelation 14](http://www.yeastboundanddown.com/wp-content/uploads/2010/11/IMG_20101128_203357-300x224.jpg "He'brew Jewbelation")
 
 I'm not a member of The Tribe, but I do enjoy puns, and this beer packed a double whammy in **He'brew Jewbelation 14** (the chosen beer). Beyond the name, it's a pretty cool concept beer. Starting with **Jewbelation 8,** which had 8 different types of malt and hops, each year they add one more type of malt and one more variety of hops. This is the last year of the series, and they took the seven numbered Jewbelations (8-14), mixed them in a barrel and came out with **Jewbelation Vertical**. Now, they're having a special where they're releasing the 8 beers during the 8 days of Chanukah to 88 different bars. Silly puns, mixed with interesting brewing ideas and a high-minded, yet tongue in check concept? Sign me up for that beer!
 

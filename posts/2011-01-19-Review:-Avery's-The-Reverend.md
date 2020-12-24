@@ -9,7 +9,7 @@ Avery describes it thusly:
 
 Not to spoil my tasting notes, but I can only hope that it would get better after a few years in the cellar. I kind of doubt it though, as cellaring seems to bring out the sweetness and alcohol more, which this beer really doesn't need.
 
-\[caption id="attachment\_748" align="aligncenter" width="375" caption="Belgian Style Quadrupel 10% ABV"\][![Avery Brewing's The Reverend Belgian Style Quadrupel](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/IMG_20110117_211902-300x224.jpg "Avery Brewing's The Reverend Belgian Style Quadrupel")](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/IMG_20110117_211902.jpg)\[/caption\]
+![Avery Brewing's The Reverend Belgian Style Quadrupel](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/IMG_20110117_211902-300x224.jpg "Avery Brewing's The Reverend Belgian Style Quadrupel")
 
 Appearance: Reddish, coppery brown and very clear. Some bubbles continue to percolate up throughout the drinking. A 1 finger, creamy head quickly died down, but a thin layer remained.
 

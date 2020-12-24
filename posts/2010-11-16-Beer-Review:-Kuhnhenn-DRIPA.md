@@ -1,7 +1,7 @@
 Beer Review: Kuhnhenn DRIPA
 ===========================
 
-\[caption id="" align="alignright" width="299" caption="Kuhnhenn Double Rice IPA"\]![Double Rice IPA](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/wpid-IMG_20101019_171450.jpg)\[/caption\]
+![Double Rice IPA](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/wpid-IMG_20101019_171450.jpg)
 
 With Ashley's Ann Arbor conveniently located within walking distance, I get a chance to sample a variety of beers from "Michigan's Premier Multi-tap." The latest I tried comes from a Michigan brewery, in Warren's own Kuhnhenn.
 

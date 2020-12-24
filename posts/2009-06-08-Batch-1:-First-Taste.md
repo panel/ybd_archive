@@ -1,7 +1,7 @@
 Batch 1: First Taste
 ====================
 
-\[caption id="" align="aligncenter" width="307" caption="Our first tast of our first beer"\]![Our first tast of our first beer](http://lh4.ggpht.com/_yB8ZIqebwqg/SiwRy_aw5SI/AAAAAAAABCg/KBLlCAAczm4/s512/IMG_1310.JPG "The First Beer!")\[/caption\]
+![Our first tast of our first beer](http://lh4.ggpht.com/_yB8ZIqebwqg/SiwRy_aw5SI/AAAAAAAABCg/KBLlCAAczm4/s512/IMG_1310.JPG "The First Beer!")
 
 A week after bottling, it was time to test a beer from the first brewing endeavour. We opened one bottle (there are still about 40 remaining, one of which we'll test for another status update in a week, and one of which we'll probably never open), and poured it into a pint glass, which the three of us shared.
 

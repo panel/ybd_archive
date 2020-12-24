@@ -1,7 +1,7 @@
 Review: William's Brothers Ebulum
 =================================
 
-\[caption id="attachment\_560" align="aligncenter" width="300" caption="William's Brothers Ebulum - Elderberry Black Ale"\][![William's Brothers Ebulum](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/IMG_20101029_183532-300x224.jpg "Ebulum")](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/IMG_20101029_183532.jpg)\[/caption\]
+![William's Brothers Ebulum](http://www.yeastboundanddown.com/wp-content/uploads/2010/10/IMG_20101029_183532-300x224.jpg "Ebulum")
 
 I normally shy away from fruit/berry beers. I generally find them too cloying and light on actual beer flavor. While there are a TON of examples of great fruit beers, there are certainly many that just don't cut it.
 

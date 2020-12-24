@@ -1,7 +1,7 @@
 Michigan Brewer's Guild Winter Festival
 =======================================
 
-\[caption id="attachment\_904" align="alignright" width="188" caption="Michigan Brewers Guild Winter Beer Festival"\][![Michigan Brewers Guild Winter Beer Festival](http://www.yeastboundanddown.com/wp-content/uploads/2011/02/mbgwinter.gif "Michigan Brewers Guild Winter Beer Festival")](http://www.yeastboundanddown.com/wp-content/uploads/2011/02/mbgwinter.gif)\[/caption\]
+![Michigan Brewers Guild Winter Beer Festival](http://www.yeastboundanddown.com/wp-content/uploads/2011/02/mbgwinter.gif "Michigan Brewers Guild Winter Beer Festival")
 
 Tomorrow is the big day. We're ready to take the world of Michigan craft brewers by storm, one beer at a time. Here's [the full list of participating breweries and their beers](http://www.mbgmash.org/?p=496) - though some breweries will bring along offerings not on the roster.
 

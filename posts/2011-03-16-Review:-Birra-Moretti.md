@@ -3,7 +3,7 @@ Review: Birra Moretti
 
 Though I'm not sure it qualifies as a "craft beer," I'd certainly never tried Birra Moretti until recently, and therefore a review is in the offing. The brand was formed in 1859 by Luigi Moretti and since 1996 has been owned by Heineken International.
 
-\[caption id="attachment\_790" align="alignright" width="277" caption="Look at that glorious head  That's what she said"\][![Birra Moretti](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/IMG_2357-277x300.jpg "Birra Moretti")](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/IMG_2357.jpg)\[/caption\]
+![Birra Moretti](http://www.yeastboundanddown.com/wp-content/uploads/2011/01/IMG_2357-277x300.jpg "Birra Moretti")
 
 As is obvious from the included picture, Birra Moretti is a light lager, though there are [seven other beers](http://www.ratebeer.com/brewers/birra-moretti-(heineken)/389/) produced under the Birra Moretti label.
 
