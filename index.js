@@ -29,40 +29,58 @@ const categorize = (title) => {
     : "Other";
 };
 
-rm("posts", (e) => {
+const makePage = (byCategory, category) =>
+  byCategory[category].sort().reduce((
+    lines,
+    line,
+  ) => lines.concat([`* [${line[0]}](${line[1]})`]), [`---
+layout: page
+title: ${category}
+---`]).join("\n");
+
+rm("_posts", (e) => {
   const byCategory = {};
-  fs.mkdirSync("posts");
-  fs.mkdirSync("posts/recipes");
-  fs.mkdirSync("posts/reviews");
-  fs.mkdirSync("posts/other");
+  fs.mkdirSync("_posts");
+  fs.mkdirSync("_posts/recipes");
+  fs.mkdirSync("_posts/reviews");
+  fs.mkdirSync("_posts/other");
   posts.filter((p) => p.post_type === "post" && p.post_status === "publish")
     .forEach((post) => {
+      const category = categorize(post.post_title);
       const date = formatDate(post.post_date);
+      const postFile = slugify([date, post.post_title].join(" ")).replace(/:/g, "");
       const cleanedUp = post.post_content.replace(/\r\n/g, "\n").replace(
         /\n\n/g,
         "</p><p>",
       ).replace(/\n/g, "<p>").replace(/\[caption .*(<.*\/>).*caption\]/g, "$1");
-      const content = turndownService.turndown(
+      const content = `---
+layout: post
+title: "${post.post_title}"
+category: ${category}
+---
+
+` + turndownService.turndown(
         `<h1>${post.post_title}</h1>\n${cleanedUp}`,
       );
-      const category = categorize(post.post_title);
-      const filePath = `./posts/${category.toLowerCase()}/${
-        slugify([date, post.post_title].join(" ")).replace(/:/g, "")
-      }.md`;
-      fs.writeFileSync(filePath, content);
+      fs.writeFileSync(`_posts/${category.toLowerCase()}/${postFile}.md`, content);
       if (!byCategory[category]) byCategory[category] = [];
-      byCategory[category].push([post.post_title, filePath]);
+      byCategory[category].push([post.post_title, [category.toLowerCase(), ...date.split('-'), post.post_title.replace(/:/g, '').replace(/\s/g, '-')].join('/')]);
     });
 
   const readme = Object.entries(byCategory).reverse().reduce(
     (page, [category, posts]) =>
       page.concat([
-        `## ${category}`,
+        `\n## ${category}\n`,
         ...posts.map((p) => `* [${p[0]}](${p[1]})`),
       ]),
     [],
   ).join("\n");
   fs.writeFileSync("./README.md", readme);
-  fs.copyFileSync("./README.md", "./index.md");
+
+  const recipes = makePage(byCategory, "Recipes");
+  const reviews = makePage(byCategory, "Reviews");
+
+  fs.writeFileSync("./recipes.markdown", recipes);
+  fs.writeFileSync("./reviews.markdown", reviews);
 });
-const files = fs.readdirSync("posts");
+// const files = fs.readdirSync("_posts");
