@@ -64,7 +64,7 @@ category: ${category}
       );
       fs.writeFileSync(`_posts/${category.toLowerCase()}/${postFile}.md`, content);
       if (!byCategory[category]) byCategory[category] = [];
-      byCategory[category].push([post.post_title, [category.toLowerCase(), ...date.split('-'), post.post_title.replace(/:/g, '').replace(/\s/g, '-')].join('/')]);
+      byCategory[category].push([post.post_title, [category.toLowerCase(), ...date.split('-'), post.post_title.replace(/:/g, '').replace(/\s/g, '-')].join('/') + '.html']);
     });
 
   const readme = Object.entries(byCategory).reverse().reduce(
