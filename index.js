@@ -38,6 +38,15 @@ layout: page
 title: ${category}
 ---`]).join("\n");
 
+const makeFrontMatter = ({ post_title }) =>
+  `---
+layout: post
+title: "${post_title}"
+category: ${categorize(post_title)}
+---
+
+`;
+
 rm("_posts", (e) => {
   const byCategory = {};
   fs.mkdirSync("_posts");
@@ -48,23 +57,34 @@ rm("_posts", (e) => {
     .forEach((post) => {
       const category = categorize(post.post_title);
       const date = formatDate(post.post_date);
-      const postFile = slugify([date, post.post_title].join(" ")).replace(/:/g, "");
-      const cleanedUp = post.post_content.replace(/\r\n/g, "\n").replace(
-        /\n\n/g,
-        "</p><p>",
-      ).replace(/\n/g, "<p>").replace(/\[caption .*(<.*\/>).*caption\]/g, "$1");
-      const content = `---
-layout: post
-title: "${post.post_title}"
-category: ${category}
----
+      const postFile = slugify([date, post.post_title].join(" ")).replace(
+        /:/g,
+        "",
+      );
+      const htmlLink = [
+        category.toLowerCase(),
+        ...date.split("-"),
+        post.post_title.replace(/:/g, "").replace(/\s/g, "-"),
+      ].join("/") + ".html";
 
-` + turndownService.turndown(
+      const cleanedUp = post.post_content
+        .replace(/\r\n/g, "\n")
+        .replace(
+          /\n\n/g,
+          "</p><p>",
+        )
+        .replace(/\n/g, "<p>")
+        .replace(/\[caption .*(<.*\/>).*caption\]/g, "$1")
+        .replace(/via Instagram http:\/\/instagr.am\/p\/(.*)\//g, '{% include insta.html postId="$1" %}');
+      const content = makeFrontMatter(post) + turndownService.turndown(
         `<h1>${post.post_title}</h1>\n${cleanedUp}`,
       );
-      fs.writeFileSync(`_posts/${category.toLowerCase()}/${postFile}.md`, content);
+      fs.writeFileSync(
+        `_posts/${category.toLowerCase()}/${postFile}.md`,
+        content,
+      );
       if (!byCategory[category]) byCategory[category] = [];
-      byCategory[category].push([post.post_title, [category.toLowerCase(), ...date.split('-'), post.post_title.replace(/:/g, '').replace(/\s/g, '-')].join('/') + '.html']);
+      byCategory[category].push([post.post_title, htmlLink]);
     });
 
   const readme = Object.entries(byCategory).reverse().reduce(
@@ -83,4 +103,3 @@ category: ${category}
   fs.writeFileSync("./recipes.markdown", recipes);
   fs.writeFileSync("./reviews.markdown", reviews);
 });
-// const files = fs.readdirSync("_posts");
